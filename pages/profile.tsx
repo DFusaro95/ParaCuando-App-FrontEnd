@@ -1,5 +1,12 @@
+import { Footer } from "@/components/Footer";
+import { Navbar } from "@/components/Navbar";
+
 export default function profilePage() {
   return (
-    <h1>This is the "Profile" page</h1>
+    <>
+      <Navbar />
+      <h1>This is the "Profile" page</h1>
+      <Footer />
+    </>
   )
 }

@@ -10,8 +10,8 @@ const links = [
     route: "/favourites"
   },
   {
-    label: "Sign In",
-    route: "/signin"
+    label: "Log In",
+    route: "/login"
   },
   {
     label: "Sign Up",
