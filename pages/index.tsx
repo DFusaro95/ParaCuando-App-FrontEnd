@@ -4,10 +4,10 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <>
-      <main>
-        <h1 className='bg-purple-500'>This is the HomePage</h1>
+    <section className=''>
+      <main className=''>
+        <h1 className=''>This is the HomePage</h1>
       </main>
-    </>
+    </section>
   )
 }

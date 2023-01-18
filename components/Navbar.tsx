@@ -25,13 +25,13 @@ const links = [
 
 export function Navbar () {
   return (
-    <header className="text-white bg-gray-800">
+    <header>
       <nav>
-        <ul className="flex gap-5">
-          <li className="cursor-pointer"><Link href={"/"}>Home</Link></li>
+        <ul>
+          <li><Link href={"/"}>Home</Link></li>
           {links.map(({ label, route }) => (
             <li key={route}>
-              <Link href={route} className="cursor-pointer ">
+              <Link href={route}>
                 {label}
               </Link>
             </li>
