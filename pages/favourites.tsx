@@ -5,7 +5,7 @@ export default function favouritesPage() {
   return (
   <>
     <Navbar />
-    <h1>This is the "Favourites" page</h1>
+    <h1>This is the &#39;Favourites&#39; page</h1>
     <Footer />
   </>
   )

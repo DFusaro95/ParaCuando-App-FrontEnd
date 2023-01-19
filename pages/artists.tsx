@@ -5,7 +5,7 @@ export default function artistsPage() {
   return (
   <>
     <Navbar />
-    <h1>This is the "Artists & Concerts" page</h1>
+    <h1>This is the `&quot;`Artists & Concerts`&quot;` page</h1>
     <Footer />
   </>
   )
