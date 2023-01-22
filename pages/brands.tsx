@@ -5,7 +5,7 @@ export default function brandsPage() {
   return (
     <>
       <Navbar />
-      <h1>This is the "Brands & Shops" page</h1>
+      <h1>This is the &quot;Brands & Shops&quot; page</h1>
       <Footer />
     </>
   );

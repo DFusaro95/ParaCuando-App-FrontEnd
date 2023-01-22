@@ -5,7 +5,7 @@ export default function profilePage() {
   return (
     <>
       <Navbar />
-      <h1>This is the "Profile" page</h1>
+      <h1>This is the &quot;Profile&quot; page</h1>
       <Footer />
     </>
   );

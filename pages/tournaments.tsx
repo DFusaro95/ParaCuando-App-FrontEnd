@@ -5,7 +5,7 @@ export default function tournamentsPage() {
   return (
     <>
       <Navbar />
-      <h1>This is the "Tournaments" page</h1>
+      <h1>This is the &quot;Tournaments&quot; page</h1>
       <Footer />
     </>
   );
