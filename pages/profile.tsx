@@ -1,5 +1,5 @@
-import { Footer } from "@/components/Footer";
-import { Navbar } from "@/components/Navbar";
+import { Footer } from '@/components/Footer';
+import { Navbar } from '@/components/Navbar';
 
 export default function profilePage() {
   return (
@@ -8,5 +8,5 @@ export default function profilePage() {
       <h1>This is the "Profile" page</h1>
       <Footer />
     </>
-  )
+  );
 }
